@@ -1,4 +1,5 @@
-<contacts refresh="0">
+<?xml version="1.0"?>
+<contacts refresh="3600">
 <contact name="RECEPCIO" number="4001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="CENTRALETA"/>
 <contact name="CRISTINA" number="4002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPRES"/>
 <contact name="NURIA" number="4003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPTABILITAT"/>
@@ -6,6 +7,7 @@
 <contact name="PORCI" number="4008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ADMINISTRACIÓ PORCÍ"/>
   
 </contacts>
+
 
 
 
