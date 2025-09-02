@@ -5,8 +5,13 @@
 <contact name="NURIA" number="4003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPTABILITAT"/>
 <contact name="SERGI" number="4004" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="DIRECTOR"/>
 <contact name="PORCI" number="4008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ADMINISTRACIÓ PORCÍ"/>
+<contact name="CARLES" number="4005" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="DIRECCIÓ"/>
+<contact name="XEVI" number="4006" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="GERENT"/>
+<contact name="LOGISTICA" number="4012" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="LOGISTICA"/>
+<contact name="ADMINISTRACIÓ" number="4013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ADMINISTRACIÓ"/>
   
 </contacts>
+
 
 
 
