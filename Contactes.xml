@@ -1,7 +1,8 @@
 <contacts refresh="0">
-<contact name="RECEPCIO" number="001" firstname="" lastname="" phone="4001" mobile="" email="" address="" city="" state="" zip="" comment="" presence="1" info=""/>
-<contact name="CRISTINA" number="002" firstname="" lastname="" phone="4002" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
-<contact name="NURIA" number="003" firstname="" lastname="" phone="4003" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
-<contact name="SERGI" number="004" firstname="" lastname="" phone="4004" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
-<contact name="PORCI" number="005" firstname="" lastname="" phone="4008" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
+<contact name="RECEPCIO" number="4001" firstname="" lastname="" phone="4001" mobile="" email="" address="" city="" state="" zip="" comment="" presence="1" info=""/>
+<contact name="CRISTINA" number="4002" firstname="" lastname="" phone="4002" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
+<contact name="NURIA" number="4003" firstname="" lastname="" phone="4003" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
+<contact name="SERGI" number="4004" firstname="" lastname="" phone="4004" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
+<contact name="PORCI" number="4008" firstname="" lastname="" phone="4008" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
+
 </contacts>
