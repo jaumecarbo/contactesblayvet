@@ -1,9 +1,10 @@
 <contacts refresh="0">
-<contact name="RECEPCIO" number="4001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
-<contact name="CRISTINA" number="4002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
-<contact name="NURIA" number="4003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
-<contact name="SERGI" number="4004" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
-<contact name="PORCI" number="4008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info=""/>
+<contact name="RECEPCIO" number="4001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="CENTRALETA"/>
+<contact name="CRISTINA" number="4002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPRES"/>
+<contact name="NURIA" number="4003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPTABILITAT"/>
+<contact name="SERGI" number="4004" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="DIRECTOR"/>
+<contact name="PORCI" number="4008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ADMINISTRACIÓ PORCÍ"/>
 </contacts>
+
 
 
