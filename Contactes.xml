@@ -7,10 +7,40 @@
 <contact name="PORCI" number="4008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ADMINISTRACIÓ PORCÍ"/>
 <contact name="CARLES" number="4005" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="DIRECCIÓ"/>
 <contact name="XEVI" number="4006" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="GERENT"/>
+<contact name="INFORMATICA" number="4011" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="INFORMATICA"/>
 <contact name="LOGISTICA" number="4012" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="LOGISTICA"/>
 <contact name="ADMINISTRACIÓ" number="4013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ADMINISTRACIÓ"/>
-  
+<contact name="SERGI MOBIL" number="2000" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="SERGI LLAUGER"/>
+<contact name="MANTENIMENT MOBIL" number="2001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="MANTENIMENT"/>
+<contact name="CRISTINA MOBIL" number="2002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPRES"/>
+<contact name="FORMICS MOBIL" number="2003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="GRANJA FORMICS"/>
+<contact name="RICARD MOBIL" number="2005" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="RICARD SERRAT"/>
+<contact name="CARLES BLAY C. MOBIL" number="2006" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="CARLES BLAY"/>
+<contact name="XEVI MOBIL" number="2008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="XEVI BLAY"/>
+<contact name="MARIA F. MOBIL" number="2009" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="MARIA FALGUERAS"/>
+<contact name="CARLES BLAY T. MOBIL" number="2011" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="CARLES B.T."/>
+<contact name="ALBERT MOBIL" number="2012" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ALBERT CANÉ"/>
+<contact name="PAU MOBIL" number="2013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="MAGATZEM"/>
+<contact name="MARÇAL MOBIL" number="2015" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="MARÇAL MONTSERRAT"/>
+<contact name="DONATAS MOBIL" number="2017" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="DONATAS MINKUS"/>
+<contact name="JOSEP MOBIL" number="2018" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="JOSEP ORTEGA"/>
+<contact name="SERGI G. MOBIL" number="2019" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="SERGI GUERRERO"/>
+<contact name="YOANDY MOBIL" number="2020" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="YOANDY SOBRINO"/>
+<contact name="ROMÀ MOBIL" number="2021" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ROMÀ OLIVER"/>
+<contact name="JAUME MOBIL" number="2022" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="JAUME CARBÓ"/>
+<contact name="MANUEL MOBIL" number="2023" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="MANUEL GARCIA"/>
+<contact name="MOLAS MOBIL" number="2024" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="GRANJA MOLAS"/>
+<contact name="SONIA MOBIL" number="2025" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="SONIA MARTINEZ"/>
+<contact name="BRUGUERES MOBIL" number="2026" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="GRANJA BRUGUERES"/>
+<contact name="JORDI O. MOBIL" number="2701" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="JORDI OLIVÉ"/>
+<contact name="CARMEN REJAS MOBIL" number="679592425" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="CARMEN REJAS"/>
+<contact name="DAVID DACHS MOBIL" number="630388500" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="DAVID DACHS"/>
+<contact name="JORDI DACHS MOBIL" number="637748439" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="JORDI DACHS"/>
+<contact name="JORDI GALIAN MOBIL" number="628357859" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="JORDI GALIAN"/>
+<contact name="ROSER MOBIL" number="638302117" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ROSER ESTANYOL"/>
+
 </contacts>
+
 
 
 
