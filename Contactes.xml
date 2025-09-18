@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <contacts refresh="3600">
-<contact name="RECEPCIO" number="4001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="CENTRALETA"/>
-<contact name="CRISTINA" number="4002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPRES"/>
-<contact name="NURIA" number="4003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPTABILITAT"/>
-<contact name="SERGI" number="4004" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="DIRECTOR"/>
-<contact name="PORCI" number="4008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ADMINISTRACIÓ PORCÍ"/>
-<contact name="CARLES" number="4005" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="DIRECCIÓ"/>
-<contact name="XEVI" number="4006" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="GERENT"/>
-<contact name="INFORMATICA" number="4011" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="INFORMATICA"/>
-<contact name="LOGISTICA" number="4012" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="LOGISTICA"/>
-<contact name="ADMINISTRACIÓ" number="4013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ADMINISTRACIÓ"/>
+<contact name="RECEPCIO" number="3001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="CENTRALETA"/>
+<contact name="CRISTINA" number="3002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPRES"/>
+<contact name="NURIA" number="3003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPTABILITAT"/>
+<contact name="SERGI" number="3004" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="DIRECTOR"/>
+<contact name="PORCI" number="3008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ADMINISTRACIÓ PORCÍ"/>
+<contact name="CARLES" number="3005" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="DIRECCIÓ"/>
+<contact name="XEVI" number="3006" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="GERENT"/>
+<contact name="INFORMATICA" number="3011" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="INFORMATICA"/>
+<contact name="LOGISTICA" number="3012" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="LOGISTICA"/>
+<contact name="ADMINISTRACIÓ" number="3013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ADMINISTRACIÓ"/>
 <contact name="SERGI MOBIL" number="2000" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="SERGI LLAUGER"/>
 <contact name="MANTENIMENT MOBIL" number="2001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="MANTENIMENT"/>
 <contact name="CRISTINA MOBIL" number="2002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="COMPRES"/>
@@ -40,6 +40,7 @@
 <contact name="ROSER MOBIL" number="638302117" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="0" info="ROSER ESTANYOL"/>
 
 </contacts>
+
 
 
 
